@@ -16,7 +16,11 @@ public class Main  {
 		System.out.println(transformer("aaa bbbb CCCCC", p3, f2));
 		
 
+<<<<<<< HEAD
+		//text
+=======
     
+>>>>>>> 3b0c8f5594299ee1a9d0f829f7037e3330df34e4
 	}
 	
 	public static String transformer(String input ,Predicate<String> c,Function<String,String> f){
