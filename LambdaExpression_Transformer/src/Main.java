@@ -16,6 +16,7 @@ public class Main  {
 		System.out.println(transformer("aaa bbbb CCCCC", p3, f2));
 		
 
+    
 	}
 	
 	public static String transformer(String input ,Predicate<String> c,Function<String,String> f){
